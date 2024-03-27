@@ -33,6 +33,8 @@ public class MyORTools {
         System.out.println("Objective: " + objective.value());
         System.out.println("x = : " + x.solutionValue());
         System.out.println("y = : " + y.solutionValue());
+        System.out.println("1");
+        System.out.println("2");
     }
 
 
